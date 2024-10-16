@@ -1,8 +1,8 @@
-Hello
-Hello
-helll
-hell
-hel
-he
-h
-Sri harish is my fRiend
+import java.util.Scanner;
+class main
+{
+public static void main(String args[])
+{
+System.out.println("Hello World");
+}
+}
